@@ -1,0 +1,4 @@
+Sitemap: http://keepcontacts.netlify.app/sitemap.xml
+User-Agent: *
+Allow: /
+
